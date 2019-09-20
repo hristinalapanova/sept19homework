@@ -1,3 +1,14 @@
+
+new Object()
+
+the `new` keyword (object constructor)
+
+{} curly braces (object literal)
+
+function MyObject() { } (constructor function)
+
+Object.create(MyObject) (use `Object.create`)
+
 const Me ={
     name: "Kristyn",
     age: 42,
